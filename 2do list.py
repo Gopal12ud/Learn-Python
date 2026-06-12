@@ -1,4 +1,4 @@
-#Gopal'code#
+
 tasks = []
 
 def show_tasks():
